@@ -1,12 +1,11 @@
-<nav>
-    <ul>
-        <li><a href="index.jsp">Home</a></li>
-        <li><a href="reserva.jsp">Reservación</a></li>
-        <li><a href="#">Menú</a></li>
-        <li><a href="#">Bar</a></li>
-        <li><a href="#">Sala</a></li>
-        <li><a href="#">Cocina</a></li>
-        <li><a href="#">Personal</a></li>
-    </ul>
-</nav>
-
+<%@ include file="header.html" %>
+<!DOCTYPE html>
+<html>
+<head>
+    <link rel="stylesheet" type="text/css" href="style.css">
+    <title>Inicio</title>
+</head>
+<body>
+    <h1>Hola Equipo: <span>Buenos días</span></h1>
+</body>
+</html>
